@@ -1,0 +1,14 @@
+E:\deepak\MobileApp\Domainlayer\bin\Debug\net7.0\Domainlayer.deps.json
+E:\deepak\MobileApp\Domainlayer\bin\Debug\net7.0\Domainlayer.runtimeconfig.json
+E:\deepak\MobileApp\Domainlayer\bin\Debug\net7.0\Domainlayer.dll
+E:\deepak\MobileApp\Domainlayer\bin\Debug\net7.0\Domainlayer.pdb
+E:\deepak\MobileApp\Domainlayer\obj\Debug\net7.0\Domainlayer.csproj.AssemblyReference.cache
+E:\deepak\MobileApp\Domainlayer\obj\Debug\net7.0\Domainlayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\deepak\MobileApp\Domainlayer\obj\Debug\net7.0\Domainlayer.AssemblyInfoInputs.cache
+E:\deepak\MobileApp\Domainlayer\obj\Debug\net7.0\Domainlayer.AssemblyInfo.cs
+E:\deepak\MobileApp\Domainlayer\obj\Debug\net7.0\Domainlayer.csproj.CoreCompileInputs.cache
+E:\deepak\MobileApp\Domainlayer\obj\Debug\net7.0\Domainlayer.dll
+E:\deepak\MobileApp\Domainlayer\obj\Debug\net7.0\refint\Domainlayer.dll
+E:\deepak\MobileApp\Domainlayer\obj\Debug\net7.0\Domainlayer.pdb
+E:\deepak\MobileApp\Domainlayer\obj\Debug\net7.0\Domainlayer.genruntimeconfig.cache
+E:\deepak\MobileApp\Domainlayer\obj\Debug\net7.0\ref\Domainlayer.dll
